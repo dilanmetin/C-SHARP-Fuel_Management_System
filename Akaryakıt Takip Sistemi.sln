@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.6.33829.357
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Akaryakıt Takip Sistemi", "Akaryakıt Takip Sistemi.csproj", "{BBC6E237-4220-4375-9D14-F5A070996C90}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{BBC6E237-4220-4375-9D14-F5A070996C90}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BBC6E237-4220-4375-9D14-F5A070996C90}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BBC6E237-4220-4375-9D14-F5A070996C90}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BBC6E237-4220-4375-9D14-F5A070996C90}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {9EAA649F-B0E9-49DD-8AAC-6A06F6FB777F}
+	EndGlobalSection
+EndGlobal

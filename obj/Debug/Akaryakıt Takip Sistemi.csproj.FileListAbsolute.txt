@@ -1,0 +1,11 @@
+C:\Users\dilan\OneDrive\Masaüstü\Akaryakıt Takip Sistemi\obj\Debug\Akaryakıt Takip Sistemi.csproj.AssemblyReference.cache
+C:\Users\dilan\OneDrive\Masaüstü\Akaryakıt Takip Sistemi\obj\Debug\Akaryakıt Takip Sistemi.csproj.SuggestedBindingRedirects.cache
+C:\Users\dilan\OneDrive\Masaüstü\Akaryakıt Takip Sistemi\obj\Debug\Akaryakıt_Takip_Sistemi.Form1.resources
+C:\Users\dilan\OneDrive\Masaüstü\Akaryakıt Takip Sistemi\obj\Debug\Akaryakıt_Takip_Sistemi.Properties.Resources.resources
+C:\Users\dilan\OneDrive\Masaüstü\Akaryakıt Takip Sistemi\obj\Debug\Akaryakıt Takip Sistemi.csproj.GenerateResource.cache
+C:\Users\dilan\OneDrive\Masaüstü\Akaryakıt Takip Sistemi\obj\Debug\Akaryakıt Takip Sistemi.csproj.CoreCompileInputs.cache
+C:\Users\dilan\OneDrive\Masaüstü\Akaryakıt Takip Sistemi\bin\Debug\Akaryakıt Takip Sistemi.exe.config
+C:\Users\dilan\OneDrive\Masaüstü\Akaryakıt Takip Sistemi\bin\Debug\Akaryakıt Takip Sistemi.exe
+C:\Users\dilan\OneDrive\Masaüstü\Akaryakıt Takip Sistemi\bin\Debug\Akaryakıt Takip Sistemi.pdb
+C:\Users\dilan\OneDrive\Masaüstü\Akaryakıt Takip Sistemi\obj\Debug\Akaryakıt Takip Sistemi.exe
+C:\Users\dilan\OneDrive\Masaüstü\Akaryakıt Takip Sistemi\obj\Debug\Akaryakıt Takip Sistemi.pdb
